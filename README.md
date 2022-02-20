@@ -1,4 +1,4 @@
-Hi, I’m @peter-toson and I just dump my hooby code here.
+Just dumping some code here.
 
 <!---
 peter-toson/peter-toson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
